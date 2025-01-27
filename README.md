@@ -1,5 +1,8 @@
 # MomentumOS
 
+> [!CAUTION]
+> This is a modified version for some issues if anyone wants to install it. Please go ahead and download a different firmware (reliable/updated) [a new firmware](https://github.com/DarkFlippers/unleashed-firmware/)
+
 MomentumOS is a sleek, modern operating system designed for speed, simplicity, and innovation. It delivers a seamless user experience, robust performance, and cutting-edge features that make it ideal for developers, power users, and everyday tasks.
 
 ---
