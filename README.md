@@ -1,7 +1,7 @@
 # MomentumOS
 
 > [!CAUTION]
-> This OS is not very reliable **yet** if anyone wants to install it. Please go ahead and download a different OS (reliable/updated) [a new firmware](https://www.microsoft.com/en-us/software-download/windows11)
+> This OS is not very reliable **yet** if anyone wants to install it. Please go ahead and download a different OS (reliable/updated) [Windows 11](https://www.microsoft.com/en-us/software-download/windows11)
 
 MomentumOS is a sleek, modern operating system designed for speed, simplicity, and innovation. It delivers a seamless user experience, robust performance, and cutting-edge features that make it ideal for developers, power users, and everyday tasks.
 
